@@ -1,0 +1,4 @@
+{
+  "frontend/src/App.tsx": "Minimal landing page component that displays only the text \"Minecraft UNO\" with no styling or additional elements.",
+  "frontend/src/hooks/useQueries.ts": "Empty file as no backend queries are needed for this simple landing page."
+}

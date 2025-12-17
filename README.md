@@ -1,2 +1,8 @@
-# 019b2a1b-4fff-738a-b345-b432811d8fd6
-Exported from Caffeine project: Minecraft UNO Landing Page
+## Minecraft UNO Landing Page
+
+To run app build and run docker image:
+
+```
+docker build -t app .
+docker run -it --network host app
+```
